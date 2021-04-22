@@ -17,7 +17,7 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
 import model.Payment;
-//service
+
 @Path("/Payment")
 public class PaymentService {
 	
